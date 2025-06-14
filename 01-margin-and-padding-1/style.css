@@ -24,9 +24,11 @@ body {
   width: 200px;
   /* CHANGE ME */
   padding: 32px;
-  margin-left: 336px; 
+  margin-left: auto; 
 }
 /* 336=600(max-width)-200(.three width)-2(32)(padding) */
+/* WOW auto I'm mad that I did math lol */
+/* and I was off by a few pixels because of the border... Now I'm mad */
 /* padding is text to box number */
 /* margin is the space around a box */
 /* margin can also have a specific side like from left or bottom */
